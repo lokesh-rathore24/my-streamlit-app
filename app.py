@@ -4,7 +4,7 @@ Activity Config Admin Panel -- Streamlit Wireframe
 Design-only prototype. All data lives in st.session_state.
 Run: .venv/bin/streamlit run admin_wireframe.py
 """
-
+# hello test
 import copy
 import json
 import streamlit as st
